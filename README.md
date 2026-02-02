@@ -1,4 +1,4 @@
-# GO:R MIDI Selector
+# GO:R Roland GO:PIANO and GO:KEYS MIDI Selector
 
 A lightweight, full-screen MIDI patch selector and sender for **Roland GO: series** keyboards (GO:PIANO, GO:KEYS, etc.). Built with **Pygame** for a clean, responsive UI that's especially suited for small touchscreens or gamepad controls on retro handhelds.
 
