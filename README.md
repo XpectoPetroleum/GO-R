@@ -75,16 +75,16 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 4. **Install Python dependencies** (via SSH or built-in terminal)
 
-Connect via SSH (see above) or use the on-device terminal (Applications → Terminal), then run the following commands:
-
-python3 -m ensurepip --upgrade
-
-pip3 install --upgrade pip
-
-pip3 install mido python-rtmidi
-
-**Note**:
-- If `pip3` fails, use `python3 -m pip install ...` instead.
+  - Connect via SSH (see above) or use the on-device terminal (Applications → Terminal), then run the following commands:
+      
+      python3 -m ensurepip --upgrade
+      
+      pip3 install --upgrade pip
+      
+      pip3 install mido python-rtmidi
+      
+      **Note**:
+      - If `pip3` fails, use `python3 -m pip install ...` instead.
 
 5. **Run the application**
 
