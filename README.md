@@ -31,7 +31,7 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
   - I have tested this code with the Ambernix RG35XXSP and Roland GO:Piano only. Other Knulli supported handhelds should work if they have USB OTG. We need to get more variants.
 
 - **Why KNULLI?**  
-  Excellent touchscreen/gamepad support, EmulationStation frontend, Python + Pygame usually available or easily added, wireless file transfer (SMB), OTA updates, and strong community for these low-power ARM devices.
+  USB MIDI support, Excellent touchscreen/gamepad support, EmulationStation frontend, Python + Pygame usually available or easily added, wireless file transfer (SMB), OTA updates, and strong community for these low-power ARM devices.
 
 - **Hardware Needed** (beyond the handheld):  
   - MIDI-capable Roland GO: series keyboard/piano  
