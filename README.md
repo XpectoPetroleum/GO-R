@@ -84,7 +84,7 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 	      pip3 install mido python-rtmidi
 	      
 	  **Note**:
-	  - If `pip3` fails, use `python3 -m pip install ...` instead.
+	  - If pip3 fails, use `python3 -m pip install` instead.
 
 5. **Run the application**
 
