@@ -69,13 +69,13 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
        → [Official KNULLI SSH Guide](https://knulli.org/configure/ssh)  
      - Quick example (from your computer's terminal):  ssh root@<device-ip>
 
-  - **Transfer project files over the network**:  
+	- **Transfer project files over the network**:  
     -  Use Samba (recommended for drag-and-drop) to copy `GO - R.sh` and the GO - R folder (includes: `ui.py`, `GoRLib.py`, and `patches.json`) to: `/share/roms/ports` 
     - Alternative: Use SCP/SFTP via SSH (e.g. WinSCP, FileZilla) or a card reader.
 
 4. **Install Python dependencies** (via SSH or built-in terminal)
 
-  - Connect via SSH (see above) or use the on-device terminal (Applications → Terminal), then run the following commands:
+	- Connect via SSH (see above) or use the on-device terminal (Applications → Terminal), then run the following commands:
       
       python3 -m ensurepip --upgrade
       
@@ -88,11 +88,11 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 5. **Run the application**
 
-From the main knulli screen, go to "Ports" and then select "GO - R".
+	- From the main knulli screen, go to "Ports" and then select "GO - R".
 
 ## Troubleshooting
 
-- **No MIDI ports shown** → Check USB MIDI connection; verify `python-rtmidi` installed correctly
+	- **No MIDI ports shown** → Check USB MIDI connection; verify `python-rtmidi` installed correctly
 
 ## Credits
 
