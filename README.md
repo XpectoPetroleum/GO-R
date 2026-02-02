@@ -92,7 +92,7 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 ## Troubleshooting
 
-	- **No MIDI ports shown** → Check USB MIDI connection; verify `python-rtmidi` installed correctly
+- **No MIDI ports shown** → Check USB MIDI connection; verify `python-rtmidi` installed correctly
 
 ## Credits
 
