@@ -25,9 +25,11 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 ## Screenshots
 
-
-
-
+<img width="50%" height="50%" alt="IMG_9606" src="https://github.com/user-attachments/assets/d9b7c828-6fab-46e3-9418-e1284ad7d6cf" />
+<img width="50%" height="50%" alt="IMG_9611" src="https://github.com/user-attachments/assets/cba9245d-7077-450a-ba37-a65bb57050ac" />
+<img width="50%" height="50%" alt="IMG_9607" src="https://github.com/user-attachments/assets/610c6d54-c23d-407c-be0a-91f8f3d5c8cf" />
+<img width="50%" height="50%" alt="IMG_9608" src="https://github.com/user-attachments/assets/69115c87-1092-4d1d-aa71-5eb8208c6de2" />
+<img width="50%" height="50%" alt="IMG_9610" src="https://github.com/user-attachments/assets/be207d62-0983-43b1-bcb8-98568373f896" />
 
 ## Important: Platform & Requirements
 
@@ -97,6 +99,9 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 5. **Run the application**
 
 	- From the main knulli screen, go to "Ports" and then select "GO - R".
+
+	<img width="1773" height="1329" alt="IMG_9600" src="https://github.com/user-attachments/assets/28d07e42-538c-4e1c-9e78-30597449d671" />
+	<img width="1784" height="1348" alt="IMG_9605" src="https://github.com/user-attachments/assets/4502a02b-d3ce-4b63-af28-f964d162e764" />
 
 ## Troubleshooting
 
