@@ -4,7 +4,7 @@ A lightweight, full-screen MIDI patch selector and sender for **Roland GO: serie
 
 This tool runs best on **retro handhelds** running **KNULLI OS** — turning your device into a portable, dedicated MIDI patch browser/controller for live performance or studio use.
 
-<img width="1512" height="2016" alt="IMG_9612" src="https://github.com/user-attachments/assets/c6a8fe73-f47e-460b-86fe-3e40d6134442" />
+<img width="50%" height="50%" alt="IMG_9612" src="https://github.com/user-attachments/assets/c6a8fe73-f47e-460b-86fe-3e40d6134442" />
 
 ## Features
 
