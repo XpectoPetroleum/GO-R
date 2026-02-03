@@ -4,6 +4,8 @@ A lightweight, full-screen MIDI patch selector and sender for **Roland GO: serie
 
 This tool runs best on **retro handhelds** running **KNULLI OS** — turning your device into a portable, dedicated MIDI patch browser/controller for live performance or studio use.
 
+<img width="1512" height="2016" alt="IMG_9612" src="https://github.com/user-attachments/assets/c6a8fe73-f47e-460b-86fe-3e40d6134442" />
+
 ## Features
 
 - Full graphical user interface with dedicated screen and hardware buttons
@@ -20,6 +22,12 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 - Bluetooth MIDI support
 - Zones/Splits/Layers (partly developed but I dont have a GO:Keys to test it with. My GO:Piano only supports zone 1. If I can get my hands on a GO:Keys I can develop this further).
 - Ability to run this code on other platforms and devices
+
+## Screenshots
+
+
+
+
 
 ## Important: Platform & Requirements
 
