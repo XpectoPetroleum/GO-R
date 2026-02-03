@@ -145,4 +145,4 @@ SOFTWARE.
 ---
 
 Project by **Teknotronix** (@teknotronix)  
-Contributions, handheld screenshots, and KNULLI-specific improvements very welcome!
+Contributions are very welcome!
