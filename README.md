@@ -23,6 +23,20 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 - Zones/Splits/Layers (partly developed but I dont have a GO:Keys to test it with. My GO:Piano only supports zone 1. If I can get my hands on a GO:Keys I can develop this further).
 - Ability to run this code on other platforms and devices
 
+## ❤️ Support / Donations
+
+Thank you for using / considering supporting this project!
+
+All donations go directly to development and maintenance.
+
+- **Bitcoin (BTC)**  
+  `bc1qyourbitcoinaddresshere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qyourbitcoinaddresshere?label=YourProject&message=GitHub%20donation&size=200x200" width="200" alt="Bitcoin QR Code">
+
+- **Ethereum (ETH) / ERC-20 (USDC, USDT, etc.)**  
+  `0xYourEthereumAddressHere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=ethereum:0xYourEthereumAddressHere?label=YourProject&message=GitHub%20donation&size=200x200" width="200" alt="Ethereum QR Code">
+
 ## Screenshots
 
 <img width="40%" height="40%" alt="IMG_9606" src="https://github.com/user-attachments/assets/d9b7c828-6fab-46e3-9418-e1284ad7d6cf" />
