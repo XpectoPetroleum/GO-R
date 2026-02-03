@@ -62,7 +62,7 @@ CURRENT_MIDI_PORT_NAME = "None Selected"
 GLastPatchSent = "None"
 message_text = ""
 message_timer = 0
-SHOW_DEBUG = False
+SHOW_DEBUG = True
 DEBUG_MESSAGE = "Ready"
 
 
@@ -87,12 +87,14 @@ class InputAction(Enum):
 
 def decode_keystroke(e):
     """Convert pygame event → InputAction. Shows raw button numbers in debug overlay."""
-    
+
     # Show raw input so you can verify mapping
     if e.type == pygame.JOYBUTTONDOWN:
         set_debug(f"RAW BUTTON: {e.button} pressed")
     if e.type == pygame.JOYHATMOTION:
         set_debug(f"RAW HAT: {e.value}")
+    if e.type == pygame.JOYAXISMOTION:
+        set_debug(f"RAW AXIS: {e.axis} = {e.value:.3f}")
 
     # Keyboard fallback
     if e.type == pygame.KEYDOWN:
@@ -123,6 +125,15 @@ def decode_keystroke(e):
             if x == -1: return InputAction.LEFT
             if x ==  1: return InputAction.RIGHT
 
+        # D-pad via AXES
+        if e.type == pygame.JOYAXISMOTION:
+            if e.axis == 0:  # Horizontal (left/right)
+                if e.value < -0.5: return InputAction.LEFT
+                if e.value >  0.5: return InputAction.RIGHT
+            if e.axis == 1:  # Vertical (up/down) — sometimes inverted!
+                if e.value < -0.5: return InputAction.UP   # test this direction
+                if e.value >  0.5: return InputAction.DOWN
+
     return None
 
 # ==================== SCREEN DRAWING AND RENDER FUNCTIONS ====================
@@ -137,7 +148,7 @@ def draw_text(text, font, color, x, y, align='left'):
 
 def draw_header():
     pygame.draw.rect(screen, COLOR_SELECTED, (0, 0, GScreenWidth, HEADER_HEIGHT))
-    draw_text("G O : P L U S - R", FONT_LARGE, COLOR_WHITE, GScreenWidth//2, 20, 'center')
+    draw_text("G O : R", FONT_LARGE, COLOR_WHITE, GScreenWidth//2, 20, 'center')
     status_color = COLOR_STATUS_OK if midi_status == "Connected" else COLOR_STATUS_FAIL
     name = CURRENT_MIDI_PORT_NAME.split(":", 1)[1].strip() if ":" in CURRENT_MIDI_PORT_NAME else CURRENT_MIDI_PORT_NAME
     draw_text(f"{midi_status} - {name}", FONT_SMALL, status_color, 20, 40)
