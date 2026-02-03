@@ -1,4 +1,3 @@
-# ui.py — FINAL PERFECT VERSION: GREEN SUCCESS, RED ERRORS, CORRECT NUMBERS
 import sys, os, time, json, pygame
 from enum import Enum
 
@@ -131,7 +130,7 @@ def decode_keystroke(e):
                 if e.value < -0.5: return InputAction.LEFT
                 if e.value >  0.5: return InputAction.RIGHT
             if e.axis == 1:  # Vertical (up/down) — sometimes inverted!
-                if e.value < -0.5: return InputAction.UP   # test this direction
+                if e.value < -0.5: return InputAction.UP   
                 if e.value >  0.5: return InputAction.DOWN
 
     return None
@@ -163,7 +162,6 @@ def draw_debug_overlay():
     draw_text(f"DEBUG: {DEBUG_MESSAGE}", FONT_DEBUG, COLOR_DEBUG, 5, GScreenHeight-35)
 
 def draw_show_message():
-    # PERFECT MESSAGE COLORS
     if message_text and time.time() < message_timer:
         overlay = pygame.Surface((GScreenWidth, 50), pygame.SRCALPHA)
         overlay.fill((50,50,50,180))
