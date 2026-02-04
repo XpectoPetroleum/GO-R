@@ -35,13 +35,109 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 Thank you for considering a donation to support this project!  
 All funds go directly toward development, maintenance, and keeping the lights on ☕.  
-**If your preferred blockchain / token is not listed here, just ask and I'll add it!**
+**Click a currency below to reveal the address and QR code.**
 
-| <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" width="32" alt="Bitcoin"> **Bitcoin (BTC)**<br>`bc1qf49keaqfrre37m0zvyg6qxrzt4zkgja02ls3r3`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qf49keaqfrre37m0zvyg6qxrzt4zkgja02ls3r3?label=XpectoPetroleum&message=GitHub%20donation&size=140x140" width="140" alt="Bitcoin QR"> | <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035" width="32" alt="Ethereum"> **Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)**<br>`0x744BBda4b5E1dAD9C0b042C73f78DC5F9c0a1d42`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=ethereum:0x744BBda4b5E1dAD9C0b042C73f78DC5F9c0a1d42?label=XpectoPetroleum&message=GitHub%20donation%20(ETH/USDT/USDC)&size=140x140" width="140" alt="Ethereum QR"> | <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=035" width="32" alt="Solana"> **Solana (SOL) + SPL tokens (USDC, USDT, etc.)**<br>`9dfLJ3zwm7ndBP3hRyqgDwXoCGoJmCPiD2tagE6ULuHk`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=solana:9dfLJ3zwm7ndBP3hRyqgDwXoCGoJmCPiD2tagE6ULuHk?label=XpectoPetroleum&message=GitHub%20donation%20(SOL/USDC/USDT)&size=140x140" width="140" alt="Solana QR"> |
-| :-: | :-: | :-: |
-| <img src="https://cryptologos.cc/logos/xrp-xrp-logo.png?v=035" width="32" alt="XRP"> **XRP (Ripple)**<br>`rFZARv27dbmgS9r42dUpQU8F6NZjXG5j7`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=rFZARv27dbmgS9r42dUpQU8F6NZjXG5j7?label=XpectoPetroleum&message=GitHub%20XRP%20donation&size=140x140" width="140" alt="XRP QR"><br>*(No destination tag needed — direct to cold wallet)* | <img src="https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=035" width="32" alt="Dogecoin"> **Dogecoin (DOGE)**<br>`D7htZX5zU2LCYS8DJ7xM9g7BPBE28EQFwY`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=dogecoin:D7htZX5zU2LCYS8DJ7xM9g7BPBE28EQFwY?label=XpectoPetroleum&message=GitHub%20donation&size=140x140" width="140" alt="Dogecoin QR"> | <img src="https://cryptologos.cc/logos/cardano-ada-logo.png?v=035" width="32" alt="Cardano"> **Cardano (ADA)**<br>`addr1qxg7a2w3wlcs60satlnnn7ckykq8lhe3vu460vauu65avsp0tvth4r8gmwekc47nk0clau3w7ze4f6pczupg688azxtq5588ch` (copy-paste friendly; long address may wrap in browser)<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=addr1qxg7a2w3wlcs60satlnnn7ckykq8lhe3vu460vauu65avsp0tvth4r8gmwekc47nk0clau3w7ze4f6pczupg688azxtq5588ch?label=XpectoPetroleum&message=GitHub%20donation&size=140x140" width="140" alt="Cardano QR"> |
-| <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=035" width="32" alt="Bitcoin Cash"> **Bitcoin Cash (BCH)**<br>`qqg8um9tttu4ejrtzrpy5mnuh40e29yftydm98wf3a`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoincash:qqg8um9tttu4ejrtzrpy5mnuh40e29yftydm98wf3a?label=XpectoPetroleum&message=GitHub%20donation&size=140x140" width="140" alt="Bitcoin Cash QR"> | <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.png?v=035" width="32" alt="Litecoin"> **Litecoin (LTC)**<br>`ltc1q33r7p8hczckkmzfgh7h654cn8hgcuaw6q7z5ju`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=litecoin:ltc1q33r7p8hczckkmzfgh7h654cn8hgcuaw6q7z5ju?label=XpectoPetroleum&message=GitHub%20donation&size=140x140" width="140" alt="Litecoin QR"> | <img src="https://cryptologos.cc/logos/zcash-zec-logo.png?v=035" width="32" alt="Zcash"> **Zcash (ZEC)** – transparent address<br>`t1LedzyWfgn12zSFQLhKDDtTFwFQnHQdp8i`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=zcash:t1LedzyWfgn12zSFQLhKDDtTFwFQnHQdp8i?label=XpectoPetroleum&message=GitHub%20donation&size=140x140" width="140" alt="Zcash QR"> |
-| <img src="https://cryptologos.cc/logos/sui-sui-logo.png?v=035" width="32" alt="Sui"> **Sui (SUI)**<br>`0x9d92611c18af2322f3e77eb6f1852234221911c4b414274d42f21feae715c865`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=0x9d92611c18af2322f3e77eb6f1852234221911c4b414274d42f21feae715c865?label=XpectoPetroleum&message=GitHub%20donation&size=140x140" width="140" alt="Sui QR"> |   |   |
+<details>
+<summary>₿ Bitcoin (BTC)</summary>
+
+**Address**  
+`bc1qf49keaqfrre37m0zvyg6qxrzt4zkgja02ls3r3`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qf49keaqfrre37m0zvyg6qxrzt4zkgja02ls3r3?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Bitcoin QR Code">
+
+</details>
+
+<details>
+<summary>Ξ Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)</summary>
+
+**Address**  
+`0x744BBda4b5E1dAD9C0b042C73f78DC5F9c0a1d42`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=ethereum:0x744BBda4b5E1dAD9C0b042C73f78DC5F9c0a1d42?label=XpectoPetroleum&message=GitHub%20donation%20(ETH/USDT/USDC)&size=180x180" width="180" alt="Ethereum QR Code">
+
+</details>
+
+<details>
+<summary>◎ Solana (SOL) + SPL tokens (USDC, USDT, etc.)</summary>
+
+**Address**  
+`9dfLJ3zwm7ndBP3hRyqgDwXoCGoJmCPiD2tagE6ULuHk`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=solana:9dfLJ3zwm7ndBP3hRyqgDwXoCGoJmCPiD2tagE6ULuHk?label=XpectoPetroleum&message=GitHub%20donation%20(SOL/USDC/USDT)&size=180x180" width="180" alt="Solana QR Code">
+
+</details>
+
+<details>
+<summary>✕ XRP (Ripple)</summary>
+
+**Address**  
+`rFZARv27dbmgS9r42dUpQU8F6NZjXG5j7`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=rFZARv27dbmgS9r42dUpQU8F6NZjXG5j7?label=XpectoPetroleum&message=GitHub%20XRP%20donation&size=180x180" width="180" alt="XRP QR Code">
+
+*(No destination tag needed — direct to cold wallet)*
+
+</details>
+
+<details>
+<summary>🐶 Dogecoin (DOGE)</summary>
+
+**Address**  
+`D7htZX5zU2LCYS8DJ7xM9g7BPBE28EQFwY`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=dogecoin:D7htZX5zU2LCYS8DJ7xM9g7BPBE28EQFwY?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Dogecoin QR Code">
+
+</details>
+
+<details>
+<summary>Cardano (ADA)</summary>
+
+**Address**  
+`addr1qxg7a2w3wlcs60satlnnn7ckykq8lhe3vu460vauu65avsp0tvth4r8gmwekc47nk0clau3w7ze4f6pczupg688azxtq5588ch`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=addr1qxg7a2w3wlcs60satlnnn7ckykq8lhe3vu460vauu65avsp0tvth4r8gmwekc47nk0clau3w7ze4f6pczupg688azxtq5588ch?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Cardano QR Code">
+
+</details>
+
+<details>
+<summary>Bitcoin Cash (BCH)</summary>
+
+**Address**  
+`qqg8um9tttu4ejrtzrpy5mnuh40e29yftydm98wf3a`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoincash:qqg8um9tttu4ejrtzrpy5mnuh40e29yftydm98wf3a?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Bitcoin Cash QR Code">
+
+</details>
+
+<details>
+<summary>Litecoin (LTC)</summary>
+
+**Address**  
+`ltc1q33r7p8hczckkmzfgh7h654cn8hgcuaw6q7z5ju`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=litecoin:ltc1q33r7p8hczckkmzfgh7h654cn8hgcuaw6q7z5ju?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Litecoin QR Code">
+
+</details>
+
+<details>
+<summary>Zcash (ZEC) – transparent address</summary>
+
+**Address**  
+`t1LedzyWfgn12zSFQLhKDDtTFwFQnHQdp8i`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=zcash:t1LedzyWfgn12zSFQLhKDDtTFwFQnHQdp8i?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Zcash QR Code">
+
+</details>
+
+<details>
+<summary>Sui (SUI)</summary>
+
+**Address**  
+`0x9d92611c18af2322f3e77eb6f1852234221911c4b414274d42f21feae715c865`
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=0x9d92611c18af2322f3e77eb6f1852234221911c4b414274d42f21feae715c865?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Sui QR Code">
+
+</details>
 
 ## Important: Platform & Requirements
 
