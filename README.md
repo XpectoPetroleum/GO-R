@@ -168,8 +168,8 @@ If you found this project useful, please consider a donation to support the deve
   Desktop Linux / Windows / macOS versions are technically possible but **not optimized** — the UI and controls are tuned for handheld gamepad navigation and small screens.
 
 - **Supported Handhelds** (check latest KNULLI releases for exact support):  
-  - see [KNULLI Wiki Supported Devices](https://knulli.org/devices))
-  - I have tested this code with the Ambernix RG35XXSP and Roland GO:Piano only. Other Knulli supported handhelds should work if they have USB OTG. We need to get more variants.
+  - see [KNULLI Wiki Supported Devices](https://knulli.org/devices)
+  - I have tested this code with the Anbernic RG35XXSP and Roland GO:Piano only. Other Knulli supported handhelds should work if they have USB OTG. We need to get more variants.
 
 - **Why KNULLI?**  
   USB MIDI support, Excellent touchscreen/gamepad support, Python + Pygame support, wireless file transfer (SMB), OTA updates, and strong community for these low-power ARM devices.
