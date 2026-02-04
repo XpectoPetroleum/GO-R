@@ -35,6 +35,9 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 Thank you for considering a donation to support this project!  
 All funds go directly toward development, maintenance, and keeping the lights on ☕.  
+
+**If a blockchain or token you want to use is not listed here, just ask and I'll add it!**
+
 **Click a currency below to reveal the address and QR code.**
 
 <details>
