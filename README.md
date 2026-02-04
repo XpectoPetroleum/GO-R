@@ -22,6 +22,7 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 - Bluetooth MIDI support
 - Zones/Splits/Layers (partly developed but I dont have a GO:Keys to test it with. My GO:Piano only supports zone 1. If I can get my hands on a GO:Keys I can develop this further).
 - Ability to run this code on other platforms and devices
+- Code cleanup. There is quite a lot of messy residual and inconsistent code left from the AI tools used in helping build the app.
 
 ## Screenshots
 
