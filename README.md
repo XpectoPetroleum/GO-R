@@ -261,5 +261,5 @@ SOFTWARE.
 
 ---
 
-Project by **Teknotronix** (@teknotronix)  
+Project by **XpectoPetroleum** (@XpectoPetroleum)  
 Contributions are very welcome!
