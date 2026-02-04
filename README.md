@@ -34,7 +34,7 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 ## ❤️ Donations / Support
 
-If you found this project useful, please considering a donation to support the development!  
+If you found this project useful, please consider a donation to support the development!  
 
 **If a blockchain or token you want to use is not listed here, just ask and I'll add it!**
 
