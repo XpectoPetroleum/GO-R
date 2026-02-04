@@ -25,50 +25,51 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 ## ❤️ Donations / Support
 
-Thank you for considering a donation to support this project!
+Thank you for considering a donation to support this project!  
+All funds go directly toward development, maintenance, and keeping the lights on ☕.
 
-All funds go directly toward development, maintenance, and coffee ☕.
+<!-- Icons from https://cryptologos.cc/ – free for use -->
 
-- **Bitcoin (BTC)**  
+- ![Bitcoin](https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035) **Bitcoin (BTC)**  
   `bc1qyourbitcoinaddresshere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qyourbitcoinaddresshere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Bitcoin QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qyourbitcoinaddresshere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Bitcoin QR Code" style="margin: 8px;">
 
-- **Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)**  
+- ![Ethereum](https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035) **Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)**  
   `0xYourEthereumAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=ethereum:0xYourEthereumAddressHere?label=YourProjectName&message=GitHub%20donation%20(ETH/USDT/USDC)&size=220x220" width="220" alt="Ethereum QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=ethereum:0xYourEthereumAddressHere?label=YourProjectName&message=GitHub%20donation%20(ETH/USDT/USDC)&size=140x140" width="140" alt="Ethereum QR Code" style="margin: 8px;">
 
-- **Solana (SOL)**  
+- ![Solana](https://cryptologos.cc/logos/solana-sol-logo.png?v=035) **Solana (SOL)**  
   `YourSolanaAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=solana:YourSolanaAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Solana QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=solana:YourSolanaAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Solana QR Code" style="margin: 8px;">
 
-- **XRP (Ripple)**  
+- ![XRP](https://cryptologos.cc/logos/xrp-xrp-logo.png?v=035) **XRP (Ripple)**  
   `yourxrpaddresshere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=yourxrpaddresshere?label=YourProjectName&message=GitHub%20XRP%20donation&size=220x220" width="220" alt="XRP QR Code" style="margin: 10px;">  
-  *(Plain address — most wallets don't auto-open from URI yet; include destination tag if needed.)*
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=yourxrpaddresshere?label=YourProjectName&message=GitHub%20XRP%20donation&size=140x140" width="140" alt="XRP QR Code" style="margin: 8px;">  
+  *(Plain address — include destination tag if using one.)*
 
-- **Dogecoin (DOGE)**  
+- ![Dogecoin](https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=035) **Dogecoin (DOGE)**  
   `DYourDogecoinAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=dogecoin:DYourDogecoinAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Dogecoin QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=dogecoin:DYourDogecoinAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Dogecoin QR Code" style="margin: 8px;">
 
-- **Cardano (ADA)**  
+- ![Cardano](https://cryptologos.cc/logos/cardano-ada-logo.png?v=035) **Cardano (ADA)**  
   `YourCardanoAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=YourCardanoAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Cardano QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=YourCardanoAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Cardano QR Code" style="margin: 8px;">
 
-- **Bitcoin Cash (BCH)**  
+- ![Bitcoin Cash](https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=035) **Bitcoin Cash (BCH)**  
   `bitcoincash:qzYourBCHAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoincash:qzYourBCHAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Bitcoin Cash QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoincash:qzYourBCHAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Bitcoin Cash QR Code" style="margin: 8px;">
 
-- **Litecoin (LTC)**  
+- ![Litecoin](https://cryptologos.cc/logos/litecoin-ltc-logo.png?v=035) **Litecoin (LTC)**  
   `LYourLitecoinAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=litecoin:LYourLitecoinAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Litecoin QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=litecoin:LYourLitecoinAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Litecoin QR Code" style="margin: 8px;">
 
-- **Zcash (ZEC)** – prefer shielded for privacy  
+- ![Zcash](https://cryptologos.cc/logos/zcash-zec-logo.png?v=035) **Zcash (ZEC)** – prefer shielded  
   `zsYourZcashShieldedAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=zcash:zsYourZcashShieldedAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Zcash QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=zcash:zsYourZcashShieldedAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Zcash QR Code" style="margin: 8px;">
 
-- **Sui (SUI)**  
+- ![Sui](https://cryptologos.cc/logos/sui-sui-logo.png?v=035) **Sui (SUI)**  
   `YourSuiAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=YourSuiAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Sui QR Code" style="margin: 10px;">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=YourSuiAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Sui QR Code" style="margin: 8px;">
 
 ## Screenshots
 
