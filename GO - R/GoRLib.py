@@ -220,7 +220,7 @@ def zone_key_range(zone: int, low: int | None = None, high: int | None = None) -
 
 
 # ===================================================================
-# WORKING SYSEx ZONE/PART CONTROL FOR GO:PIANO (61/88) & GO:KEYS
+# SYSEx ZONE/PART CONTROL FOR GO:PIANO (61/88) & GO:KEYS <<<--- CURRENTLY UNTESTED AND STILL IN DEVELOPMENT!!!
 # ===================================================================
 
 # --- Addresses and Offsets (Exact Match from Original goplus.py) ---
