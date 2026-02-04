@@ -38,7 +38,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 **Click a currency below to reveal the address and QR code.**
 
 <details>
-<summary>₿ Bitcoin (BTC)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" width="24" alt="BTC"> Bitcoin (BTC)
+</summary>
 
 **Address**  
 `bc1qf49keaqfrre37m0zvyg6qxrzt4zkgja02ls3r3`
@@ -48,7 +50,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>Ξ Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035" width="24" alt="ETH"> Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)
+</summary>
 
 **Address**  
 `0x744BBda4b5E1dAD9C0b042C73f78DC5F9c0a1d42`
@@ -58,7 +62,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>◎ Solana (SOL) + SPL tokens (USDC, USDT, etc.)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=035" width="24" alt="SOL"> Solana (SOL) + SPL tokens (USDC, USDT, etc.)
+</summary>
 
 **Address**  
 `9dfLJ3zwm7ndBP3hRyqgDwXoCGoJmCPiD2tagE6ULuHk`
@@ -68,7 +74,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>✕ XRP (Ripple)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/xrp-xrp-logo.png?v=035" width="24" alt="XRP"> XRP (Ripple)
+</summary>
 
 **Address**  
 `rFZARv27dbmgS9r42dUpQU8F6NZjXG5j7`
@@ -80,7 +88,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>🐶 Dogecoin (DOGE)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=035" width="24" alt="DOGE"> Dogecoin (DOGE)
+</summary>
 
 **Address**  
 `D7htZX5zU2LCYS8DJ7xM9g7BPBE28EQFwY`
@@ -90,7 +100,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>Cardano (ADA)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/cardano-ada-logo.png?v=035" width="24" alt="ADA"> Cardano (ADA)
+</summary>
 
 **Address**  
 `addr1qxg7a2w3wlcs60satlnnn7ckykq8lhe3vu460vauu65avsp0tvth4r8gmwekc47nk0clau3w7ze4f6pczupg688azxtq5588ch`
@@ -100,7 +112,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>Bitcoin Cash (BCH)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=035" width="24" alt="BCH"> Bitcoin Cash (BCH)
+</summary>
 
 **Address**  
 `qqg8um9tttu4ejrtzrpy5mnuh40e29yftydm98wf3a`
@@ -110,7 +124,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>Litecoin (LTC)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.png?v=035" width="24" alt="LTC"> Litecoin (LTC)
+</summary>
 
 **Address**  
 `ltc1q33r7p8hczckkmzfgh7h654cn8hgcuaw6q7z5ju`
@@ -120,7 +136,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>Zcash (ZEC) – transparent address</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/zcash-zec-logo.png?v=035" width="24" alt="ZEC"> Zcash (ZEC) – transparent address
+</summary>
 
 **Address**  
 `t1LedzyWfgn12zSFQLhKDDtTFwFQnHQdp8i`
@@ -130,7 +148,9 @@ All funds go directly toward development, maintenance, and keeping the lights on
 </details>
 
 <details>
-<summary>Sui (SUI)</summary>
+<summary>
+  <img src="https://cryptologos.cc/logos/sui-sui-logo.png?v=035" width="24" alt="SUI"> Sui (SUI)
+</summary>
 
 **Address**  
 `0x9d92611c18af2322f3e77eb6f1852234221911c4b414274d42f21feae715c865`
