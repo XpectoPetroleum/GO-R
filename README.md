@@ -23,19 +23,52 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 - Zones/Splits/Layers (partly developed but I dont have a GO:Keys to test it with. My GO:Piano only supports zone 1. If I can get my hands on a GO:Keys I can develop this further).
 - Ability to run this code on other platforms and devices
 
-## ❤️ Support / Donations
+## ❤️ Donations / Support
 
-Thank you for using / considering supporting this project!
+Thank you for considering a donation to support this project!
 
-All donations go directly to development and maintenance.
+All funds go directly toward development, maintenance, and coffee ☕.
 
 - **Bitcoin (BTC)**  
   `bc1qyourbitcoinaddresshere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qyourbitcoinaddresshere?label=YourProject&message=GitHub%20donation&size=200x200" width="200" alt="Bitcoin QR Code">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qyourbitcoinaddresshere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Bitcoin QR Code" style="margin: 10px;">
 
-- **Ethereum (ETH) / ERC-20 (USDC, USDT, etc.)**  
+- **Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)**  
   `0xYourEthereumAddressHere`  
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=ethereum:0xYourEthereumAddressHere?label=YourProject&message=GitHub%20donation&size=200x200" width="200" alt="Ethereum QR Code">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=ethereum:0xYourEthereumAddressHere?label=YourProjectName&message=GitHub%20donation%20(ETH/USDT/USDC)&size=220x220" width="220" alt="Ethereum QR Code" style="margin: 10px;">
+
+- **Solana (SOL)**  
+  `YourSolanaAddressHere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=solana:YourSolanaAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Solana QR Code" style="margin: 10px;">
+
+- **XRP (Ripple)**  
+  `yourxrpaddresshere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=yourxrpaddresshere?label=YourProjectName&message=GitHub%20XRP%20donation&size=220x220" width="220" alt="XRP QR Code" style="margin: 10px;">  
+  *(Plain address — most wallets don't auto-open from URI yet; include destination tag if needed.)*
+
+- **Dogecoin (DOGE)**  
+  `DYourDogecoinAddressHere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=dogecoin:DYourDogecoinAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Dogecoin QR Code" style="margin: 10px;">
+
+- **Cardano (ADA)**  
+  `YourCardanoAddressHere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=YourCardanoAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Cardano QR Code" style="margin: 10px;">
+
+- **Bitcoin Cash (BCH)**  
+  `bitcoincash:qzYourBCHAddressHere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoincash:qzYourBCHAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Bitcoin Cash QR Code" style="margin: 10px;">
+
+- **Litecoin (LTC)**  
+  `LYourLitecoinAddressHere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=litecoin:LYourLitecoinAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Litecoin QR Code" style="margin: 10px;">
+
+- **Zcash (ZEC)** – prefer shielded for privacy  
+  `zsYourZcashShieldedAddressHere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=zcash:zsYourZcashShieldedAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Zcash QR Code" style="margin: 10px;">
+
+- **Sui (SUI)**  
+  `YourSuiAddressHere`  
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=YourSuiAddressHere?label=YourProjectName&message=GitHub%20donation&size=220x220" width="220" alt="Sui QR Code" style="margin: 10px;">
 
 ## Screenshots
 
