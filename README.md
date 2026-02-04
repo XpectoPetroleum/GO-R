@@ -23,6 +23,14 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 - Zones/Splits/Layers (partly developed but I dont have a GO:Keys to test it with. My GO:Piano only supports zone 1. If I can get my hands on a GO:Keys I can develop this further).
 - Ability to run this code on other platforms and devices
 
+## Screenshots
+
+<img width="40%" height="40%" alt="IMG_9606" src="https://github.com/user-attachments/assets/d9b7c828-6fab-46e3-9418-e1284ad7d6cf" />
+<img width="40%" height="40%" alt="IMG_9611" src="https://github.com/user-attachments/assets/cba9245d-7077-450a-ba37-a65bb57050ac" />
+<img width="40%" height="40%" alt="IMG_9607" src="https://github.com/user-attachments/assets/610c6d54-c23d-407c-be0a-91f8f3d5c8cf" />
+<img width="40%" height="40%" alt="IMG_9608" src="https://github.com/user-attachments/assets/69115c87-1092-4d1d-aa71-5eb8208c6de2" />
+<img width="40%" height="40%" alt="IMG_9610" src="https://github.com/user-attachments/assets/be207d62-0983-43b1-bcb8-98568373f896" />
+
 ## ❤️ Donations / Support
 
 Thank you for considering a donation to support this project!  
@@ -34,15 +42,6 @@ All funds go directly toward development, maintenance, and keeping the lights on
 | <img src="https://cryptologos.cc/logos/xrp-xrp-logo.png?v=035" width="32" alt="XRP"> **XRP (Ripple)**<br>`yourxrpaddresshere`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=yourxrpaddresshere?label=YourProjectName&message=GitHub%20XRP%20donation&size=140x140" width="140" alt="XRP QR"><br>*(No destination tag needed — direct to cold wallet)* | <img src="https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=035" width="32" alt="Dogecoin"> **Dogecoin (DOGE)**<br>`DYourDogecoinAddressHere`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=dogecoin:DYourDogecoinAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Dogecoin QR"> | <img src="https://cryptologos.cc/logos/cardano-ada-logo.png?v=035" width="32" alt="Cardano"> **Cardano (ADA)**<br>`YourCardanoAddressHere`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=YourCardanoAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Cardano QR"> |
 | <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=035" width="32" alt="Bitcoin Cash"> **Bitcoin Cash (BCH)**<br>`bitcoincash:qzYourBCHAddressHere`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoincash:qzYourBCHAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Bitcoin Cash QR"> | <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.png?v=035" width="32" alt="Litecoin"> **Litecoin (LTC)**<br>`LYourLitecoinAddressHere`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=litecoin:LYourLitecoinAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Litecoin QR"> | <img src="https://cryptologos.cc/logos/zcash-zec-logo.png?v=035" width="32" alt="Zcash"> **Zcash (ZEC)** – prefer shielded<br>`zsYourZcashShieldedAddressHere`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=zcash:zsYourZcashShieldedAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Zcash QR"> |
 | <img src="https://cryptologos.cc/logos/sui-sui-logo.png?v=035" width="32" alt="Sui"> **Sui (SUI)**<br>`YourSuiAddressHere`<br><img src="https://api.qrserver.com/v1/create-qr-code/?data=YourSuiAddressHere?label=YourProjectName&message=GitHub%20donation&size=140x140" width="140" alt="Sui QR"> |   |   |
-
-
-## Screenshots
-
-<img width="40%" height="40%" alt="IMG_9606" src="https://github.com/user-attachments/assets/d9b7c828-6fab-46e3-9418-e1284ad7d6cf" />
-<img width="40%" height="40%" alt="IMG_9611" src="https://github.com/user-attachments/assets/cba9245d-7077-450a-ba37-a65bb57050ac" />
-<img width="40%" height="40%" alt="IMG_9607" src="https://github.com/user-attachments/assets/610c6d54-c23d-407c-be0a-91f8f3d5c8cf" />
-<img width="40%" height="40%" alt="IMG_9608" src="https://github.com/user-attachments/assets/69115c87-1092-4d1d-aa71-5eb8208c6de2" />
-<img width="40%" height="40%" alt="IMG_9610" src="https://github.com/user-attachments/assets/be207d62-0983-43b1-bcb8-98568373f896" />
 
 ## Important: Platform & Requirements
 
