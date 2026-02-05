@@ -4,7 +4,7 @@
 
 It's A lightweight, full-screen MIDI patch selector and sender for **Roland GO: series** keyboards (GO:PIANO, GO:KEYS, etc.). Built with **Pygame** for a clean, responsive UI that's especially suited for small touchscreens or gamepad controls on retro handhelds. 
 
-This tool runs best on **retro handhelds** running **KNULLI OS** — turning your device into a portable, dedicated MIDI patch browser/controller for live performance or studio use.
+This tool runs best on **retro handhelds** running **KNULLI OS** — turning your device into a portable, dedicated MIDI patch browser/controller.
 
 <img width="40%" height="40%" alt="IMG_9612" src="https://github.com/user-attachments/assets/c6a8fe73-f47e-460b-86fe-3e40d6134442" />
 
