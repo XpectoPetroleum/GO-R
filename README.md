@@ -13,11 +13,8 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 - Full graphical user interface with dedicated screen and hardware buttons
 - Unlocks the full set of over 1300 patches (sounds)!
 - Browse Roland patches by category (Piano, EP, Organ, Synth, etc.) 
-- Send patches to specific zones (1–16) via SysEx / CC **(In development, see below!)**
 - Layering and splits **(In development, see below!)**
-- Quick shortcuts: Zone 1 (X button), Zone 2 (Y button)
-- Gamepad-first navigation (optimized for handhelds)
-- Debug overlay for troubleshooting raw inputs
+- Debug overlay for troubleshooting
 
 ## Future Improvements and Features
 
