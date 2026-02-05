@@ -1,6 +1,6 @@
 # GO:R - Handheld Roland GO:PIANO and GO:KEYS MIDI Patch Selector
 
-**Unlocks the full set of over 1300 patches (sounds) for your Roland GO: series piano/keyboard!**
+**Use the full set of over 1300 patches (sounds) for your Roland GO: series piano/keyboard!**
 
 It's A lightweight, full-screen MIDI patch selector and sender for **Roland GO: series** keyboards (GO:PIANO, GO:KEYS, etc.). Built with **Pygame** for a clean, responsive UI that's especially suited for small touchscreens or gamepad controls on retro handhelds. 
 
@@ -11,7 +11,7 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 ## Features
 
 - Full graphical user interface with dedicated screen and hardware buttons
-- Unlocks the full set of over 1300 patches (sounds)!
+- Use the full set of over 1300 patches (sounds)!
 - Browse Roland patches by category (Piano, EP, Organ, Synth, etc.) 
 - Layering and splits **(In development, see below!)**
 - Debug overlay for troubleshooting
