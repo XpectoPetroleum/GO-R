@@ -258,6 +258,21 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## ⚠️ IMPORTANT LEGAL DISCLAIMER
+
+**GO:R is an independent, community-developed, **unofficial** tool.**  
+It is **not** created, endorsed, supported, or approved by **Roland Corporation** or any of its affiliates.
+
+- This project is **not affiliated with**, sponsored by, or in any way officially connected to Roland.
+- The name "Roland", "GO:PIANO", "GO:KEYS" and other Roland product names/trademarks are used only for descriptive purposes to indicate compatibility/compatibility targets.
+- No claim is made to any Roland intellectual property, sound sets, firmware, patch data, or proprietary protocols.
+
+**By using GO:R you acknowledge that:**
+
+- This tool is intended for personal, educational, and experimental purposes.
+
+Project licensed under the [MIT License](./LICENSE).
+
 ---
 
 Project by **XpectoPetroleum** (@XpectoPetroleum)  
