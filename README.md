@@ -241,7 +241,7 @@ If you found this project useful, please consider a donation to support the deve
 
 - Inspired heavily by [GO:Plus](https://github.com/waldt/goplus)
 - Built with [Pygame](https://www.pygame.org/) & [python-rtmidi](https://spotlightkid.github.io/python-rtmidi/)
-- Patch list based sourced from JUNO DS parameter guide, and GO:Plus project.
+- Patch list sourced from JUNO DS parameter guide, and GO:Plus project.
 - Optimized for the **KNULLI OS** retro handheld community
 
 ## License
