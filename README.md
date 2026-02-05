@@ -18,7 +18,7 @@ This tool runs best on **retro handhelds** running **KNULLI OS** — turning you
 
 ## What it does not do
 
-This project does not reverse engineer or unlock any restricted features of the piano/keyboard. It simply sends MIDI messages that Roland have left enabled in the piano/keyboard. This is based on publicly released documentation, like the JUNO-DS parameter guide, and other public resources. GO:R simply provides a nice user interface to control existing features that you could alternatively access from other third party software (e.g. DAW) on your computer.
+This project does not reverse engineer or unlock any restricted features of the piano/keyboard. It simply sends MIDI messages that Roland have left enabled in the piano/keyboard. This is based on publicly released documentation, like the JUNO-DS parameter guide, and other public resources. GO:R simply provides a nice user interface to control existing features that you could alternatively access from other third party software (e.g. DAW) on your computer, using simple commands.
 
 ## Future Improvements and Features
 
