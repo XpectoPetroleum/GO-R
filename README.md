@@ -2,7 +2,7 @@
 
 **Use the full set of over 1300 patches (sounds) for your Roland GO: series piano/keyboard!**
 
-It's A lightweight, full-screen MIDI patch selector and sender for **Roland GO: series** keyboards (GO:PIANO, GO:KEYS, etc.). Built with **Pygame** for a clean, responsive UI that's especially suited for small touchscreens or gamepad controls on retro handhelds. 
+It's a lightweight, full-screen MIDI patch selector and sender for **Roland GO: series** keyboards (GO:PIANO, GO:KEYS, etc.). Built with **Pygame** for a clean, responsive UI that's especially suited for small touchscreens or gamepad controls on retro handhelds. 
 
 This tool runs best on **retro handhelds** running **KNULLI OS** — turning your device into a portable, dedicated MIDI patch browser/controller.
 
