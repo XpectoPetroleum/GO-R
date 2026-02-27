@@ -45,124 +45,93 @@ If you found this, or any other of my projects useful, please consider a donatio
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035" width="24" alt="BTC"> Bitcoin (BTC)
+  <img src="https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png" width="24" alt="BTC"> Bitcoin (BTC)
 </summary>
-
-**Address**  
+**Address**
 `bc1qf49keaqfrre37m0zvyg6qxrzt4zkgja02ls3r3`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qf49keaqfrre37m0zvyg6qxrzt4zkgja02ls3r3?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Bitcoin QR Code">
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035" width="24" alt="ETH"> Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)
+  <img src="https://assets.coingecko.com/coins/images/279/thumb/ethereum.png" width="24" alt="ETH"> Ethereum (ETH) + ERC-20 (USDT, USDC, etc.)
 </summary>
-
-**Address**  
+**Address**
 `0x744BBda4b5E1dAD9C0b042C73f78DC5F9c0a1d42`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=ethereum:0x744BBda4b5E1dAD9C0b042C73f78DC5F9c0a1d42?label=XpectoPetroleum&message=GitHub%20donation%20(ETH/USDT/USDC)&size=180x180" width="180" alt="Ethereum QR Code">
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=035" width="24" alt="SOL"> Solana (SOL) + SPL tokens (USDC, USDT, etc.)
+  <img src="https://assets.coingecko.com/coins/images/4128/thumb/solana.png" width="24" alt="SOL"> Solana (SOL) + SPL tokens (USDC, USDT, etc.)
 </summary>
-
-**Address**  
+**Address**
 `9dfLJ3zwm7ndBP3hRyqgDwXoCGoJmCPiD2tagE6ULuHk`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=solana:9dfLJ3zwm7ndBP3hRyqgDwXoCGoJmCPiD2tagE6ULuHk?label=XpectoPetroleum&message=GitHub%20donation%20(SOL/USDC/USDT)&size=180x180" width="180" alt="Solana QR Code">
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/xrp-xrp-logo.png?v=035" width="24" alt="XRP"> XRP (Ripple)
+  <img src="https://assets.coingecko.com/coins/images/44/thumb/xrp-symbol-white-128.png" width="24" alt="XRP"> XRP (Ripple)
 </summary>
-
-**Address**  
+**Address**
 `rFZARv27dbmgS9r42dUpQU8F6NZjXG5j7`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=rFZARv27dbmgS9r42dUpQU8F6NZjXG5j7?label=XpectoPetroleum&message=GitHub%20XRP%20donation&size=180x180" width="180" alt="XRP QR Code">
-
 *(No destination tag needed — direct to cold wallet)*
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=035" width="24" alt="DOGE"> Dogecoin (DOGE)
+  <img src="https://assets.coingecko.com/coins/images/5/thumb/dogecoin.png" width="24" alt="DOGE"> Dogecoin (DOGE)
 </summary>
-
-**Address**  
+**Address**
 `D7htZX5zU2LCYS8DJ7xM9g7BPBE28EQFwY`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=dogecoin:D7htZX5zU2LCYS8DJ7xM9g7BPBE28EQFwY?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Dogecoin QR Code">
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/cardano-ada-logo.png?v=035" width="24" alt="ADA"> Cardano (ADA)
+  <img src="https://assets.coingecko.com/coins/images/975/thumb/cardano.png" width="24" alt="ADA"> Cardano (ADA)
 </summary>
-
-**Address**  
+**Address**
 `addr1qxg7a2w3wlcs60satlnnn7ckykq8lhe3vu460vauu65avsp0tvth4r8gmwekc47nk0clau3w7ze4f6pczupg688azxtq5588ch`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=addr1qxg7a2w3wlcs60satlnnn7ckykq8lhe3vu460vauu65avsp0tvth4r8gmwekc47nk0clau3w7ze4f6pczupg688azxtq5588ch?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Cardano QR Code">
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=035" width="24" alt="BCH"> Bitcoin Cash (BCH)
+  <img src="https://assets.coingecko.com/coins/images/780/thumb/bitcoin-cash-circle.png" width="24" alt="BCH"> Bitcoin Cash (BCH)
 </summary>
-
-**Address**  
+**Address**
 `qqg8um9tttu4ejrtzrpy5mnuh40e29yftydm98wf3a`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=bitcoincash:qqg8um9tttu4ejrtzrpy5mnuh40e29yftydm98wf3a?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Bitcoin Cash QR Code">
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.png?v=035" width="24" alt="LTC"> Litecoin (LTC)
+  <img src="https://assets.coingecko.com/coins/images/2/thumb/litecoin.png" width="24" alt="LTC"> Litecoin (LTC)
 </summary>
-
-**Address**  
+**Address**
 `ltc1q33r7p8hczckkmzfgh7h654cn8hgcuaw6q7z5ju`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=litecoin:ltc1q33r7p8hczckkmzfgh7h654cn8hgcuaw6q7z5ju?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Litecoin QR Code">
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/zcash-zec-logo.png?v=035" width="24" alt="ZEC"> Zcash (ZEC) – transparent address
+  <img src="https://assets.coingecko.com/coins/images/486/thumb/circle-zcash-color.png" width="24" alt="ZEC"> Zcash (ZEC) – transparent address
 </summary>
-
-**Address**  
+**Address**
 `t1LedzyWfgn12zSFQLhKDDtTFwFQnHQdp8i`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=zcash:t1LedzyWfgn12zSFQLhKDDtTFwFQnHQdp8i?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Zcash QR Code">
-
 </details>
 
 <details>
 <summary>
-  <img src="https://cryptologos.cc/logos/sui-sui-logo.png?v=035" width="24" alt="SUI"> Sui (SUI)
+  <img src="https://assets.coingecko.com/coins/images/26375/thumb/Sui_Logo_Transparent_3x.png" width="24" alt="SUI"> Sui (SUI)
 </summary>
-
-**Address**  
+**Address**
 `0x9d92611c18af2322f3e77eb6f1852234221911c4b414274d42f21feae715c865`
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?data=0x9d92611c18af2322f3e77eb6f1852234221911c4b414274d42f21feae715c865?label=XpectoPetroleum&message=GitHub%20donation&size=180x180" width="180" alt="Sui QR Code">
-
 </details>
 
 ## Important: Platform & Requirements
