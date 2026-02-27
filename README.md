@@ -127,7 +127,7 @@ If you found this, or any other of my projects useful, please consider a donatio
 
 <details>
 <summary>
-  <img src="https://assets.coingecko.com/coins/images/26375/thumb/Sui_Logo_Transparent_3x.png" width="24" alt="SUI"> Sui (SUI)
+  <img src="https://cdn.jsdelivr.net/gh/simplr-sh/coin-logos/images/sui/thumb.png" width="24" alt="SUI"> Sui (SUI)
 </summary>
 **Address**
 `0x9d92611c18af2322f3e77eb6f1852234221911c4b414274d42f21feae715c865`
